@@ -1,0 +1,113 @@
+﻿  GameManager.cpp
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(56,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(56,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(57,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(57,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(58,106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(58,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(81,26): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(147,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(146,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(315,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(315,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(316,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(316,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(352,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(353,13): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(354,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(355,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(364,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(364,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(373,31): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(375,31): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(378,35): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(380,35): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(474,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(475,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(475,51): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(475,41): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(499,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(500,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(500,51): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(500,41): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(531,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(568,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(569,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(587,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(588,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(600,72): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(652,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(666,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(666,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\Util.h(18,12): warning C4244: 'return': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\MemoryGame\GameManager.cpp(474): message : see reference to function template instantiation 'T Util::lerp<int>(T,T,float)' being compiled
+          with
+          [
+              T=int
+          ]
+  Generating code
+  1 of 961 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MemoryGame.vcxproj -> C:\Users\Kisg\Documents\Visual Studio 2019\Projects\MemoryGame\Release\MemoryGame.exe
